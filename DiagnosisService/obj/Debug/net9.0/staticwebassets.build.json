@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Pz+N45Db9Q6KrhUSVlvyLCMUK1ENEsxAZwEUzPtcHko=",
+  "Source": "DiagnosisService",
+  "BasePath": "_content/DiagnosisService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

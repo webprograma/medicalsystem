@@ -1,0 +1,6 @@
+@HomeRecoveryService_HostAddress = http://localhost:5198
+
+GET {{HomeRecoveryService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
